@@ -1,0 +1,187 @@
+@media screen and (max-width: 320px) {
+    .form_forgotpwd {
+	    width: 100%;
+	    height: 415px;
+	    margin: 0 auto;
+	    background: white;
+	    padding-top: 155px;
+	    padding-left: 30px;
+	    padding-right: 30px;
+	}
+
+	.form_forgotpwd .input {
+		width: 100%;
+	    height: 60px;
+	    margin: 0 auto;
+	    margin-bottom: 20px;
+	}
+
+	.form_forgotpwd .button {
+		width: 200px;
+	    height: 60px;
+	    margin: 0 auto;
+	}
+
+	.form_forgotpwd button {
+		height: 100%;
+	    width: 160px;
+	    background: rgb(77, 150, 204);
+	    border-radius: 30px;
+	    border: none;
+	}
+
+	.form_forgotpwd .offset-8 {
+		margin-left: 50%;
+	}
+}
+
+@media screen and (min-width: 321px) and (max-width: 479px)
+{
+   .form_forgotpwd {
+	    width: 100%;
+	    height: 415px;
+	    margin: 0 auto;
+	    margin-top: calc(50vh - 140px);
+	    padding: 0;
+	    background: white;
+	    padding-left: 30px;
+	    padding-right: 30px;
+	}
+
+	.form_forgotpwd .input {
+		width: 100%;
+	    height: 60px;
+	    margin: 0 auto;
+	    margin-bottom: 20px;
+	}
+
+	.form_forgotpwd .button {
+		width: 230px;
+	    height: 60px;
+	    margin: 0 auto;
+	}
+
+	.form_forgotpwd button {
+		height: 100%;
+	    width: 160px;
+	    background: rgb(77, 150, 204);
+	    border-radius: 30px;
+	    border: none;
+	}
+
+	.form_forgotpwd .offset-8 {
+		margin-left: 55%;
+	}
+}
+
+@media screen and (min-width: 480px) and (max-width: 767px)
+{
+   .form_forgotpwd {
+	    width: 100%;
+	    height: 415px;
+	    margin: 0 auto;
+	    margin-top: calc(50vh - 140px);
+	    padding: 0;
+	    background: white;
+	    padding-left: 19%;
+		padding-right: 19%;
+	}
+
+	.form_forgotpwd .input {
+		width: 100%;
+	    height: 60px;
+	    margin: 0 auto;
+	    margin-bottom: 20px;
+	}
+
+	.form_forgotpwd .button {
+		width: 275px;
+	    height: 60px;
+	    margin: 0 auto;
+	}
+
+	.form_forgotpwd button {
+		height: 100%;
+	    width: 160px;
+	    background: rgb(77, 150, 204);
+	    border-radius: 30px;
+	    border: none;
+	}
+
+	.form_forgotpwd .offset-8 {
+		margin-left: 57%;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 979px) {
+    .form_forgotpwd {
+	    width: 100%;
+	    height: 415px;
+	    margin: 0 auto;
+	    margin-top: calc(50vh - 140px);
+	    padding: 0;
+	    background: white;
+	    padding-left: 19%;
+		padding-right: 19%;
+	}
+
+	.form_forgotpwd .input {
+		width: 100%;
+	    height: 60px;
+	    margin: 0 auto;
+	    margin-bottom: 20px;
+	}
+
+	.form_forgotpwd .button {
+		width: 353px;
+	    height: 60px;
+	    margin: 0 auto;
+	}
+
+	.form_forgotpwd button {
+		height: 100%;
+	    width: 160px;
+	    background: rgb(77, 150, 204);
+	    border-radius: 30px;
+	    border: none;
+	}
+}
+
+@media screen and (min-width: 979px) {
+	.form_forgotpwd {
+		width: 1088px;
+		height: 415px;
+		margin: 0 auto;
+		margin-top: calc(50vh - 140px);
+		background: white;
+		padding-left: 260px;
+    	padding-right: 260px;
+	}
+}
+
+.input {
+	width: 568px;
+	height: 60px;
+	margin: 0 auto;
+	margin-bottom: 35px;
+}
+
+.button {
+	width: 353px;
+	height: 60px;
+	margin: 0 auto;
+}
+
+.btn {
+	font-size: 20px !important;
+}
+
+.links {
+	font-size: 20px;
+	color: #40bbf2;
+	cursor: pointer;
+}
+
+.mt-35 {
+	margin-top: 35px;
+}
